@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I am an undergraduate currently building a foundation across software, hardware, and my main interest, cybersecurity. Right now, I am learning new skills across various topics. My strength is web development uing HTML, CSS, and JS.
+I am an undergraduate currently building a foundation across software, hardware, and my main interest, cybersecurity. Right now, I am learning new skills across various topics. My strength is web development using HTML, CSS, and JS.
 
 * ✉️  You can contact me at [ghaloulleen@gmail.com](mailto:ghaloulleen@gmail.com)
 * 🧠  I'm currently learning Cloud computing + Cybersecurity
